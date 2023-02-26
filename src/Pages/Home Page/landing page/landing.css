@@ -1,0 +1,33 @@
+.landing{
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    margin-top: 85px;
+    border-radius: 3px;
+    background-color: #FFEDD9;
+    padding-bottom: 5px;
+}
+.landing .landing-img{
+    width: 40%;
+    margin-top: -70px;
+}
+.landing .landing-img img{width: 100%;}
+.landing .text {
+    width: 60%;
+    margin-left: 20px;
+    margin-top: 35px;
+}
+.landing .text h2{
+    color: #363636;
+    width: 460px;
+    line-height: 1.4;
+    font-size: 27px;
+    
+}
+.landing .text p{
+    width: 450px;
+    font-size: 15px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    color: #686868;
+}

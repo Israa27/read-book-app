@@ -1,0 +1,19 @@
+.favorite-books-content{
+    display: grid;
+    grid-template-columns: 600px 600px;
+    justify-content: space-between;
+    margin-top: 40px;
+
+}
+.empty-list{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.empty-list img{
+    width: 50%;
+    height: 50%;
+    opacity: 0.6;
+}
+.empty-list span{font-size: 20px;color: #777;    margin-top: -76px;}

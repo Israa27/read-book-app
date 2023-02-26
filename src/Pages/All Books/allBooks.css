@@ -1,0 +1,7 @@
+.books-content{
+    display: grid;
+    grid-template-columns: 300px 900px;
+    margin-top: 30px;
+    justify-items: center;
+    justify-content: center
+}

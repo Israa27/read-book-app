@@ -1,0 +1,31 @@
+.search-form{
+    position: relative;
+}
+.search-form input{
+    width: 560px;
+    height: 45px;
+    border-radius: 3px;
+    border: none;
+    box-shadow: 0px 0px 7px 1px #dfdddd4a;
+    padding-left: 20px;
+}
+.search-form input::placeholder{
+    color: rgb(145, 143, 143);
+
+}
+.search-form input:focus{
+    outline: none !important;
+    border: none;
+    
+}
+.search-form .search-btn{ 
+    position: absolute;
+    width: 40px;
+    height: 35px;
+    border-radius: 3px;
+    top: 5px;
+    right: 7px;
+    border: none;
+    background-color: #fe7970;
+    color: #fff !important;
+}

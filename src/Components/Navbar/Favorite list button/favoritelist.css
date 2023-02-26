@@ -1,0 +1,42 @@
+.navbar-btn{
+    border: none;
+    display: flex;
+    width: 145px;
+    font-size: 25px !important;
+    background-color: #ffffff !important;
+    color: #444e !important;
+    align-items: flex-end;
+    flex-wrap: wrap;
+    position: relative;
+    margin-bottom: 15px;
+    flex-direction: row-reverse;
+    cursor: pointer;
+
+
+}
+.navbar-btn i{font-size: 20px;color: #FE7970;cursor: pointer}
+.navbar-btn .badge{
+    position: absolute;
+    width: 19px;
+    height: 19px;
+   
+    padding: 5px !important;
+    background-color: #FF4C41;
+    color: #fff;
+    border-radius: 50% !important;
+    top: 2px;
+    right: -10px;
+    font-size: 12px !important;
+    line-height: 10px;
+    font-weight: 600;
+}
+.navbar-btn .link-nav{
+    display: block;
+    font-size: 16px;
+    text-decoration: none;
+    color: #252525;
+    margin-top: 10px;
+    font-weight: 600;
+    margin-right: 2px;
+        
+}

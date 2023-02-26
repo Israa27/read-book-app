@@ -1,0 +1,15 @@
+.nav{
+    box-shadow: 0px 0px 3px 2px #eeeeee70;
+   
+}
+.flex{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-items: center;
+    height: 100px;
+    justify-items: center;
+}
+.logo h2{
+    color:#FF4C41 ;
+   
+}

@@ -1,0 +1,29 @@
+.secondary-navs{
+    height: 50px;
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #f3f0f0;
+}
+.secondary-navs .secondary-navs-span{
+    background-color: #d0d0d0;
+    margin: 25px 10px 0px 10px;
+    width: 1px;
+    height: 20px;
+
+}
+.secondary-navs .secondary-navs-btn{
+    border: none;
+    background-color: #fff;
+    margin-bottom: -22px;
+}
+
+.secondary-navs .secondary-navs-btn a{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 15px;
+    color: #959292;
+}
+@media (max-width:412px) {
+    .secondary-navs .secondary-navs-btn a {font-size: 14px;}
+}

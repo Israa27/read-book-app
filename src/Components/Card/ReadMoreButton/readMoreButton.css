@@ -1,0 +1,29 @@
+.card-btn{
+    position: absolute;
+    bottom: -9px
+
+
+}
+.read-btn{
+    width: 150px;
+    height: 35px;
+    background-color: #FF7B52;
+    border: none;
+    border-radius: 3px 0px 0px 3px;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: bold;
+    cursor: pointer;
+
+}
+.heart-btn{
+    width: 60px;
+    height: 35px;
+    background-color: #FFD2C3;
+    border: none;
+    border-radius: 0px 3px 3px 0px;
+    color: #fff;
+    cursor: pointer;
+   
+}
+.heart-btn i{color: red;font-size: 15px;}

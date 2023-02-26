@@ -1,0 +1,54 @@
+.filter{
+    width: 250px;
+    height: 167px;
+    box-shadow: 0px 0px 3px 3px #eeeeee78;
+    background-color: #f8f8f8;
+    padding: 16px;
+    border-radius: 3px;
+    margin-top: 15px;
+}
+.filter h3{
+    margin-bottom: 20px;
+    margin-left: 6px;
+}
+.radio{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin-right: 20px;
+    position: relative;
+    margin-bottom: 10px;
+}
+.radio label{color: #313030}
+[type='radio']{
+    opacity: 0;
+    margin-right: 10px;
+}
+[type='radio'] + label::before{
+    content: '';
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    background-color: #e5e5e5;
+    border-radius: 50%;
+    top: 4px;
+    left: 2px;
+}
+
+[type='radio']:checked+ label::after{
+    content: '';
+    position: absolute;
+    width: 7px;
+    height: 7px;
+    background-color: #ff4025;
+    border-radius: 50%;
+    top: 8px;
+    left: 6px;
+}
+hr{
+    background-color: #e4e0e0;
+    border: none;
+    height: 1px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}

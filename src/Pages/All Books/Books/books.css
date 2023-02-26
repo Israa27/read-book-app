@@ -1,0 +1,13 @@
+.books{
+    width: 100%;
+    display: grid;
+    margin-top: 100px;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-row-gap: 95px;
+    grid-column-gap: 30px;
+    justify-items: center;
+    justify-content: space-evenly;
+}
+.books .card{
+    margin-bottom: 20px;
+}
