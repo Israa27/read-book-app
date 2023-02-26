@@ -18,4 +18,4 @@ book store is a React web application where users can search for a book by title
 
 ## Demo :rocket:
 
-life Demo http://localhost:3000/
+life Demo https://app-store-book.netlify.app
