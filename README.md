@@ -9,9 +9,7 @@ book store is a React web application where users can search for a book by title
 * React-Toastify notifications to the websit
 
 ## Screenshots
-
-![App Screenshot](ht[hitpaw-1677376697583.webm](https://user-images.githubusercontent.com/83101136/221412026-cb240be5-73a8-46a7-b0c2-d4f5aafefd7b.webm)
-tps://drive.google.com/uc?export=view&id=1K-mzWsUd3D07dDtJEqdw52musyFQ2yXO)
+[hitpaw-1677376697583.webm](https://user-images.githubusercontent.com/83101136/221412068-9393dfe4-bda7-4912-b49b-b7700a3de4d1.webm)
 
 ## Features
 * add/remove books favorite list
